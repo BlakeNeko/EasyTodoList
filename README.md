@@ -1,28 +1,17 @@
-# vue-todolist
+# EasyTodoList
 
-Vue事项清单应用，练手项目
+Vue待办清单应用，学习vue3和expree的练手项目。
 
-已实现：添加，删除，编辑，基于 localStorage 的数据存储
+主要实现功能：添加，删除，修改，基于 MySQL 的数据存储。
 
 ## Project setup
-```
+
+```bash
 npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
+```bash
+npm run dev
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
